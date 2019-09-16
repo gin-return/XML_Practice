@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">XMLファイル記述練習</string>
+    <string name="register">登録フォーム</string>
+    <string name="Firts_name">性</string>
+    <string name="Last_name">名</string>
+    <string name="mail_adress">メールアドレスを入力してください</string>
+    <string name="password">パスワードを入力してください</string>
+    <string name="male">男性</string>
+    <string name="female">女性</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="java">Java</string>
+    <string name="HTML">HTML</string>
+    <string name="CSS">CSS</string>
+    <string-array name="courses">
+        <item>初心者コース</item>
+        <item>中級者コース</item>
+        <item>上級者コース</item>
+        <item>達人コース</item>
+    </string-array>
+    <string-array name="place">
+        <item>東京</item>
+        <item>大阪</item>
+        <item>京都</item>
+        <item>名古屋</item>
+        <item>福岡</item>
+    </string-array>
+    <string name="register_button">登録</string>
+</resources>
